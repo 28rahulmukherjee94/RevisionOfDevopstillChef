@@ -1,0 +1,4 @@
+Hello
+Welcome to devops lecture
+Ediiting performed in LondonGitMachine
+
